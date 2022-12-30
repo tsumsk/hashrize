@@ -1,0 +1,4 @@
+app:
+  facebook:
+    access-token: YOUR FACEBOOK ACCESS TOKEN HERE
+    pagename-linked-with-instagram: YOUR FACEBOOK PAGE EXACT NAME WHICH LINKED WITH YOUR INSTAGRAM ACCOUNT

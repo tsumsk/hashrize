@@ -13,6 +13,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * and some desktop browsers.
  *
  */
+@SuppressWarnings("serial")
 @SpringBootApplication
 @Theme(value = "hashrize")
 @NpmPackage(value = "line-awesome", version = "1.3.0")

@@ -1,4 +1,4 @@
-package jp.co.bzc.hashrize.components.appnav;
+package jp.co.bzc.hashrize.vd.components.appnav;
 
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.Tag;
@@ -20,8 +20,9 @@ import java.util.Optional;
 @JsModule("@vaadin-component-factory/vcf-nav")
 @Tag("vcf-nav-item")
 public class AppNavItem extends Component {
+    private static final long serialVersionUID = 1L;
 
-    /**
+	/**
      * Creates a menu item which does not link to any view but only shows the given
      * label.
      * 

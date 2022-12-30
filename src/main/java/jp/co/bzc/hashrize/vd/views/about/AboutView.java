@@ -1,4 +1,4 @@
-package jp.co.bzc.hashrize.views.about;
+package jp.co.bzc.hashrize.vd.views.about;
 
 import com.vaadin.flow.component.html.H2;
 import com.vaadin.flow.component.html.Image;
@@ -6,7 +6,8 @@ import com.vaadin.flow.component.html.Paragraph;
 import com.vaadin.flow.component.orderedlayout.VerticalLayout;
 import com.vaadin.flow.router.PageTitle;
 import com.vaadin.flow.router.Route;
-import jp.co.bzc.hashrize.views.MainLayout;
+
+import jp.co.bzc.hashrize.vd.views.MainLayout;
 
 @PageTitle("About")
 @Route(value = "about", layout = MainLayout.class)

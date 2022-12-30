@@ -1,4 +1,4 @@
-package jp.co.bzc.hashrize.components.appnav;
+package jp.co.bzc.hashrize.vd.components.appnav;
 
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.HasSize;
@@ -18,8 +18,9 @@ import java.util.Optional;
 @JsModule("@vaadin-component-factory/vcf-nav")
 @Tag("vcf-nav")
 public class AppNav extends Component implements HasSize, HasStyle {
+    private static final long serialVersionUID = 1L;
 
-    /**
+	/**
      * Creates a new menu without any label.
      */
     public AppNav() {

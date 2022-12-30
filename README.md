@@ -1,8 +1,22 @@
-# hashrize
+# Instagram Contest Collaboration Platform [Insta-Hashrize]
 
-This project can be used as a starting point to create your own Vaadin application with Spring Boot.
-It contains all the necessary configuration and some placeholder files to get you started.
+Insta-Hashrize is a collaboration tool to select winning photo entries with several judges at Instagram Hashtag Contest.  
+Every judge can select and/or bookmark interested photos.  
+And moderator can monitor judge's selecting activity.  
+MediaView ( localhost:8080/media ) is for judges.  
+And ModerateView ( localhost:8080/moderate ) is for a moderator.  
 
+App start with mock user and mock photos and that's all.  
+You can try your favorite tagged photos with restFB.  
+The reference is  
+jp.co.bzc.hashrize.backend.model.service.InstagramServiceTest  
+please write accecc-token and name of facebook page on application.yml ( application-xxx.yml )  
+
+
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPLv3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.en.html) 
+
+# below is a original text from start.vaadin.com
+  
 ## Running the application
 
 The project is a standard Maven project. To run it from the command line,

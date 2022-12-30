@@ -1,0 +1,61 @@
+[{
+  "username": "user01",
+  "name": "Ranna Duffer",
+  "password": "password",
+  "roles": ["USER"],
+  "profilePictureUrl": "http://dummyimage.com/152x237.png/5fa2dd/ffffff"
+}, {
+  "username": "user02",
+  "name": "Melany Gravey",
+  "password": "password",
+  "roles": ["USER"],
+  "profilePictureUrl": "http://dummyimage.com/131x148.png/ff4444/ffffff"
+}, {
+  "username": "user03",
+  "name": "Haleigh Pottery",
+  "password": "password",
+  "roles": ["USER"],
+  "profilePictureUrl": "http://dummyimage.com/138x235.png/dddddd/000000"
+}, {
+  "username": "user04",
+  "name": "Myra Cruz",
+  "password": "password",
+  "roles": ["USER"],
+  "profilePictureUrl": "http://dummyimage.com/107x172.png/ff4444/ffffff"
+}, {
+  "username": "user05",
+  "name": "Cyril Maron",
+  "password": "password",
+  "roles": ["USER"],
+  "profilePictureUrl": "http://dummyimage.com/104x133.png/ff4444/ffffff"
+}, {
+  "username": "user06",
+  "name": "Kele Giovannelli",
+  "password": "password",
+  "roles": ["USER"],
+  "profilePictureUrl": "http://dummyimage.com/166x223.png/ff4444/ffffff"
+}, {
+  "username": "user07",
+  "name": "Nanci Vinas",
+  "password": "password",
+  "roles": ["USER"],
+  "profilePictureUrl": "http://dummyimage.com/116x143.png/cc0000/ffffff"
+}, {
+  "username": "user08",
+  "name": "Emlynn Arangy",
+  "password": "password",
+  "roles": ["USER"],
+  "profilePictureUrl": "http://dummyimage.com/102x174.png/ff4444/ffffff"
+}, {
+  "username": "user09",
+  "name": "Carola Burnall",
+  "password": "password",
+  "roles": ["USER"],
+  "profilePictureUrl": "http://dummyimage.com/180x216.png/5fa2dd/ffffff"
+}, {
+  "username": "admin",
+  "name": "Meggi Butteris",
+  "password": "password",
+  "roles": ["USER","MODERATOR"],
+  "profilePictureUrl": "http://dummyimage.com/164x139.png/cc0000/ffffff"
+}]
