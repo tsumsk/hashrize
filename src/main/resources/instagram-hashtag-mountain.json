@@ -538,6 +538,6 @@
         "cursors": {
             "after": "MDY4MDgyYWI4YWI1NDAyZATk2ODkzNmVjMWYxYjRhODgZD"
         },
-        "next": "https:\/\/graph.facebook.com\/v15.0\/17841563167105057\/top_media?access_token=EAAE3cOEGT44BANKDFjdRraeuGQkafDCC2wiHXkAUTA2fZCv8VZBWTr2t91nosROVpZAo5oeI8RVP0sZAguZBbvOtlT0EE13ZCyBEGrU4EIHo2K3hmsBZBkKG44gvREGtSA1C4ZBGeFDniKUGoCYxgV464sgGZBNOZBofjDxD4GskbyPwZDZD&fields=timestamp\u00252Cmedia_url\u00252Cmedia_type\u00252Cid\u00252Cchildren\u00257Bmedia_url\u00252Cpermalink\u00257D\u00252Cpermalink\u00252Ccaption&user_id=17841402095236853&limit=25&after=MDY4MDgyYWI4YWI1NDAyZATk2ODkzNmVjMWYxYjRhODgZD"
+        "next": "https:\/\/graph.facebook.com\/v15.0\/17841563167105057\/top_media?access_token=XX&fields=timestamp\u00252Cmedia_url\u00252Cmedia_type\u00252Cid\u00252Cchildren\u00257Bmedia_url\u00252Cpermalink\u00257D\u00252Cpermalink\u00252Ccaption&user_id=17841402095236853&limit=25&after=MDY4MDgyYWI4YWI1NDAyZATk2ODkzNmVjMWYxYjRhODgZD"
     }
 }
